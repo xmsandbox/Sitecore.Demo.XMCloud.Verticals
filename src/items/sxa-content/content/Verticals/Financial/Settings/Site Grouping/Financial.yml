@@ -21,7 +21,7 @@ SharedFields:
   Value: 1
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "ado-dev-ssr-rl6zadpgua9l5lkxs0ppg-financial.vercel.app"
+  Value: "ado-verticals-ssr-zdrplku9kixpstzzxqpra-financial.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Financial
@@ -41,4 +41,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "43f454b1-5abe-49fd-9534-70ff3d448bb3"
+      Value: "f1ac4355-411d-4625-af84-9d4b2fb52926"

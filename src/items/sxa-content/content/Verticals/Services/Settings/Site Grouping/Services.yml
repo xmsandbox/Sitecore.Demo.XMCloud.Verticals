@@ -15,7 +15,7 @@ SharedFields:
   Value: Services
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "ado-dev-ssr-rl6zadpgua9l5lkxs0ppg-services.vercel.app"
+  Value: "ado-verticals-ssr-zdrplku9kixpstzzxqpra-services.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Services
@@ -35,4 +35,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "27b5431b-5d06-4592-a36d-f6f4997e0d39"
+      Value: "fd0ef73d-ae0d-417b-999e-1b04100e57bb"
